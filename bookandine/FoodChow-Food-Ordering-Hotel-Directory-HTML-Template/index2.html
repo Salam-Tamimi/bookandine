@@ -1,0 +1,227 @@
+import React, { useState, useEffect } from 'react';
+import './data.json'
+
+
+const TopHome = () => {
+  const [restaurantData, setRestaurantData] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    import('./data.json')
+      .then((response) => {
+        setRestaurantData(response.default.data.data);
+        setIsLoading(false);
+      })
+      .catch((error) => {
+        setError(error);
+        setIsLoading(false);
+      });
+  }, []);
+
+
+  // Ensure that restaurantData is not empty before proceeding
+  if (restaurantData.length === 0) {
+    return <div>Loading...</div>;
+  }
+
+  // Sort the data by averageRating in descending order
+  const sortedData = restaurantData.sort((a, b) => b.averageRating - a.averageRating);
+
+  // Select the top 6 restaurants
+  const top6Restaurants = sortedData.slice(0, 6);
+  const [data, setData] = useState([]);
+  const [filterData, setFilterData] = useState([]);
+  const [selectedLocation, setSelectedLocation] = useState('25336960');
+  const [searchName, setSearchName] = useState('');
+  const [isSearching, setIsSearching] = useState(false);
+  const backgroundStyle = {
+    backgroundImage: 'url(images/topbg.jpg)',
+  };
+
+  const handleLocationChange = (value) => {
+    setSelectedLocation(value);
+  };
+
+  const handleNameChange = (value) => {
+    setSearchName(value);
+  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    try {
+      const response = await axios.get(
+        'https://tripadvisor16.p.rapidapi.com/api/v1/restaurant/searchRestaurants',
+        {
+          params: {
+            locationId: selectedLocation,
+          },
+          // headers: {
+          //     'X-RapidAPI-Key': '206354caf9mshf123122a06813fcp173656jsn8dcebef5994a',
+          //     'X-RapidAPI-Host': 'tripadvisor16.p.rapidapi.com'
+          // }
+        }
+      );
+      console.log(selectedLocation);
+      const filteredData = response.data.data.data;
+      const filtered = filteredData.filter((rest) => rest.name.toLowerCase().includes(searchName));
+      setFilterData(filtered);
+      setIsSearching(true);
+    } catch (error) {
+      console.error(error);
+    }
+  };
+  return (
+    <>
+
+      <section>
+        <div className="block blackish opac50">
+          <div className="fixed-bg" style={{ backgroundImage: 'url(images/parallax2.jpg)' }}></div>
+          <div className="restaurant-searching style2 text-center">
+            <div className="restaurant-searching-inner">
+              <span>Different <i>Restaurants</i> </span>
+              <h2 itemProp="headline">Book Now & Dine</h2>
+              <form className="restaurant-search-form2 brd-rd30" onSubmit={handleSubmit}>
+                <div className="input-field brd-rd30" style={{ display: 'flex', alignItems: 'center' }}>
+                  <input className="brd-rd30 " style={{ marginLeft: '90px' }} type="text" placeholder="RESTAURANT NAME" onChange={(e) => handleNameChange(e.target.value)}
+                    value={searchName} />
+                  <i className="fa fa-map-marker" style={{ marginLeft: '10px' }}>
+                    <select
+                      className="brd-rd2"
+                      style={{ fontSize: '18px' }}
+                      defaultValue={selectedLocation}
+                      onChange={(e) => handleLocationChange(e.target.value)}
+                    >
+                      <option value="25336960">Amman</option>
+                      <option value="656904">Irbid</option>
+                      <option value="293988">Jerash</option>
+                    </select>
+                  </i>
+                </div>
+                <button className="brd-rd30 red-bg" type="submit">SEARCH</button>
+              </form>
+
+
+            </div>
+          </div>
+        </div>
+      </section>
+      {isSearching?(
+      <section className="row" style={{ marginBottom: '120px', marginLeft: '30px', marginRight: '30px' }}>
+        {/* add .data befor map when use API */}
+        {/* .slice(0, 5) */}
+        {filterData.map((restaurant) => (
+
+          <div className="col-md-6 col-sm-12 col-lg-6" key={restaurant.locationId} >
+            <div className="sec-box" style={{ height: '500px' }}>
+              <div className="remove-ext">
+                <div className="row" >
+                  <div className="col-md-4 col-sm-6 col-lg-4" >
+                    <div className="article-dev wow fadeIn" data-wow-delay="0.2s">
+                      <figure>
+                        <a href={`/single/${restaurant.restaurantsId}`} title="">
+                          <img src={restaurant.heroImgUrl} alt={restaurant.name} style={{ width: '630px', height: '350px' }} />
+                        </a>
+                      </figure>
+                      <div className="article-data">
+                        <div className="article-info-meta">
+                          <span style={{ color: restaurant.currentOpenStatusCategory === 'CLOSED' ? 'red' : 'green' }} >{restaurant.currentOpenStatusText}</span>
+                          <a href={restaurant.menuUrl} title="" style={{ fontSize: '18px' }}>Menu</a>
+                          <span><div className="like-meta" style={{ marginRight: '-15px' }}>
+                            <span><i className="fa fa-star-o"></i> {restaurant.averageRating}</span>
+                            <span><i className="fa fa-comment-o"></i> {restaurant.userReviewCount}</span>
+
+                          </div></span>
+                        </div>
+                        <div className="article-meta">
+                          <h3>
+                            <a href={`/single/${restaurant.restaurantsId}`} title="">
+                              {restaurant.name}
+                            </a>
+                          </h3>
+                          <span>{restaurant.establishmentTypeAndCuisineTags.slice(0, 3).map((tag, index) => (
+                            <span key={index}>#{tag}</span>
+                          ))}</span>
+
+
+                        </div>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        ))}
+      </section>):
+
+      {/* Top Rating */}
+      <section>
+        <div className="block no-padding overlape-45">
+          <div className="container">
+            <div className="row">
+              <div className="col-md-12 col-sm-12 col-lg-12">
+                <div className="top-restaurants-wrapper">
+                  <ul className="restaurants-wrapper style2">
+                    {/* <ul> */}
+                    {top6Restaurants.map((restaurant, index) => (
+
+                      <li className="wow bounceIn" data-wow-delay="0.2s" key={index}>
+                        <div className="top-restaurant">
+
+                          <a href={`/?restaurantId=${restaurant.restaurantsId}`} title="Restaurant 1" itemprop="url">
+                            <img src={restaurant.squareImgUrl} alt="top-restaurant1.png" itemprop="image" />
+                          </a>
+                          <h4>{restaurant.name}</h4>
+                          <p>Average Rating: {restaurant.averageRating}</p>
+
+                        </div>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section>
+        <div className="block remove-bottom">
+          <div className="container">
+            <div className="row">
+              <div className="welcome-sec">
+                <div className="col-md-6 col-sm-6 col-lg-6">
+                  <div className="welcome-secinfo">
+                    <h2>Welcome To Bookandine</h2>
+                    <span>We Create Delicious Memories</span>
+                    <p>We understand that finding the perfect dining experience can be a culinary adventure in itself. Whether you're planning an intimate dinner for two, a family celebration, or a business lunch, we've got you covered. With Bookandine, you can discover and reserve the finest dining establishments in town with ease, ensuring that every meal is a memorable one. Start your gastronomic journey today, and let us help you savor the flavors of exceptional cuisine. Welcome to a world of culinary delight at Bookandine!.</p>
+                    <div className="award">
+                      <img src="images/award.png" alt="" />
+                      <span><em>jordanian</em>different <i>restaurants</i></span>
+                    </div>
+                    <span className="sign">
+                      <img src="images/sign.png" alt="" />
+                    </span>
+                  </div>
+                </div>
+                <div className="col-md-6 col-sm-6 col-lg-6">
+                  <div className="welcome-gallery">
+                    <img src="images/resource/food1.jpg" alt="" />
+                    <img src="images/resource/food2.jpg" alt="" />
+                    <img src="images/resource/food3.jpg" alt="" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>}
+
+    </>
+  );
+}
+
+export default TopHome;
+

@@ -1,0 +1,3552 @@
+{
+    "status": true,
+    "message": "Success",
+    "timestamp": 1696404728671,
+    "data": {
+      "totalRecords": 1078,
+      "totalPages": 35,
+      "data": [
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d25336960-Reviews-Kow_Co_BBQ_Smoke_House-Amman_Amman_Governorate",
+          "locationId": 25336960,
+          "name": "Kow Co. BBQ & Smoke House",
+          "averageRating": 5,
+          "userReviewCount": 11,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": null,
+          "hasMenu": true,
+          "menuUrl": "https://tarabezah.com/QRCode/Kow-Co-Restaurant?utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAAwXB3QqCMBgA0KepO3%252BDtCDC7G9a6bQWdSOftuFoTdOJ2tN3TqlU3S4NQ0EDOf1BqUNd64LLt0GNsOo1v9IS2iroGpBqzfJC8Ncq9jx4lvshPQji0OyVo6HTbu7c09DeJ8PQjJndLyxchdHBk8yfRaI4fTG9BTEypxlf4aiTj2d6zlOG2MTeJBz3qHYth%252Fy2onOuUqAxgUtrhifz7pIZtsjOlKwPnWNxocEH%252BB9HIsWeuQAAAA%253D%253D&fbclid=PAAaZhFxSGlV7e_dbIxu-U86A-IFCVxxry_2w91QoKOGAnfC3OlcLqQeUJPI0&_i=QOunYZSMbSfIf%252BRiQwIp817VzDlu7TnlIyRaNs0KL0W8V3Q1VE0nfwK7HcNeJmai&%2524web_only=true&_branch_match_id=1175173589061436229",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "American",
+            "Steakhouse",
+            "Grill"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/29/49/be/63/let-s-meet.jpg",
+          "heroImgRawHeight": 1576,
+          "heroImgRawWidth": 2560,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/49/be/63/let-s-meet.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1576,
+                "maxWidth": 2560,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/49/be/63/let-s-meet.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/49/be/63/let-s-meet.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/29/49/be/63/let-s-meet.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/29/49/be/63/let-s-meet.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/29/49/be/63/let-s-meet.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 154,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/29/49/be/63/let-s-meet.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 339,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/49/be/63/let-s-meet.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 630,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/29/49/be/63/let-s-meet.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 788,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/49/be/63/let-s-meet.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "Amazing",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d25336960-r918982979-Kow_Co_BBQ_Smoke_House-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Good",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d25336960-r916220424-Kow_Co_BBQ_Smoke_House-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d8368378-Reviews-Jubran-Amman_Amman_Governorate",
+          "locationId": 8368378,
+          "name": "Jubran",
+          "averageRating": 5,
+          "userReviewCount": 2164,
+          "currentOpenStatusCategory": "OPEN",
+          "currentOpenStatusText": "Open Now",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "http://menu.jubran.com/",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": true,
+          "establishmentTypeAndCuisineTags": [
+            "International",
+            "Middle Eastern"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/22/d7/1a/our-signature-adana-kebab.jpg?w=1200&h=800&s=1",
+          "heroImgRawHeight": 828,
+          "heroImgRawWidth": 1242,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/22/d7/1a/our-signature-adana-kebab.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 828,
+                "maxWidth": 1242,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/22/d7/1a/our-signature-adana-kebab.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/22/d7/1a/our-signature-adana-kebab.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/22/d7/1a/our-signature-adana-kebab.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/22/d7/1a/our-signature-adana-kebab.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/1d/22/d7/1a/our-signature-adana-kebab.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/22/d7/1a/our-signature-adana-kebab.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/22/d7/1a/our-signature-adana-kebab.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 683,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/1d/22/d7/1a/our-signature-adana-kebab.jpg"
+                },
+                {
+                  "width": 1242,
+                  "height": 828,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/22/d7/1a/our-signature-adana-kebab.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "We had a great time in Jubran They've amazing view delicious food Staff are so...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d8368378-r789231307-Jubran-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "... and the basil ￹hummus￻ were really go...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d8368378-r899473637-Jubran-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d12902873-Reviews-Caprice-Amman_Amman_Governorate",
+          "locationId": 12902873,
+          "name": "Caprice",
+          "averageRating": 5,
+          "userReviewCount": 541,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Today",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.fairmont.com/amman/pdfs/caprice-menu-2023/",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Bar",
+            "International",
+            "Pub",
+            "Wine Bar",
+            "Dining bars"
+          ],
+          "offers": {
+            "hasDelivery": false,
+            "hasReservation": true,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null,
+            "slot1Offer": {
+              "canProvideTimeslots": true,
+              "canLockTimeslots": true,
+              "timeSlots": [],
+              "providerId": "15910",
+              "provider": "OpenTable",
+              "providerDisplayName": "OpenTable",
+              "buttonText": "Reserve",
+              "offerURL": "N2NjXy9Db21tZXJjZT9wPU9wZW5UYWJsZSZzcmM9MjMyMTk3ODU4Jmdlbz0xMjkwMjg3MyZmcm9tPVJlc3RhdXJhbnRzJmFyZWE9cmVzZXJ2YXRpb25fYnV0dG9uJnNsb3Q9MSZtYXRjaElEPTEmb29zPTAmY250PTEmc2lsbz00NTU4MiZidWNrZXQ9OTc5NjQxJm5yYW5rPTEmY3Jhbms9MSZjbHQ9UiZ0dHlwZT1SZXN0YXVyYW50JnRtPTI3NjMxNjMyOCZtYW5hZ2VkPWZhbHNlJmNhcHBlZD1mYWxzZSZnb3NveD05RE12aWJEVFdkTmFGZUdZTDhRVGFreXYxTEJZWmFHcGVCNE1FSG4taHYybVpCTjM3NkVIVkNHdXNUSVJ4bUo4anROZmJndW1pdDNsYmlTNFAzVFlEU05NZ2lFWWlhUG8yREFTd01yMjFfOCZjcz0xNDM2ODc3MDU2NDU5MTMzNWVjZjU3OWYxZWNlNjVjMDlfcTQ4",
+              "logoUrl": "/img2/branding/hotels/OT_Logo_1000x232.png",
+              "trackingEvent": "reserve_click"
+            }
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a7/75/23/getlstd-property-photo.jpg?w=2200&h=1400&s=1",
+          "heroImgRawHeight": 1409,
+          "heroImgRawWidth": 2249,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a7/75/23/getlstd-property-photo.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1409,
+                "maxWidth": 2249,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a7/75/23/getlstd-property-photo.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a7/75/23/getlstd-property-photo.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/a7/75/23/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/a7/75/23/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/10/a7/75/23/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 157,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/a7/75/23/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 345,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/a7/75/23/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 641,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/10/a7/75/23/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 2249,
+                  "height": 1409,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/a7/75/23/getlstd-property-photo.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "We stay in hotel for 1 month and every weekend we are visit caprice. The best...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d12902873-r800919082-Caprice-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "￹great atmosphere￻, delicious food and wo...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d12902873-r898968227-Caprice-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d25152486-Reviews-The_Jordanian_Kitchen-Amman_Amman_Governorate",
+          "locationId": 25152486,
+          "name": "The Jordanian Kitchen",
+          "averageRating": 5,
+          "userReviewCount": 109,
+          "currentOpenStatusCategory": "OPEN",
+          "currentOpenStatusText": "Open Now",
+          "priceTag": null,
+          "hasMenu": false,
+          "menuUrl": null,
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Arabic"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/3c/79/6f/caption.jpg?w=2000&h=1500&s=1",
+          "heroImgRawHeight": 1536,
+          "heroImgRawWidth": 2048,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/3c/79/6f/caption.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1536,
+                "maxWidth": 2048,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/3c/79/6f/caption.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/3c/79/6f/caption.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/2a/3c/79/6f/caption.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/2a/3c/79/6f/caption.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/2a/3c/79/6f/caption.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 188,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/2a/3c/79/6f/caption.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 413,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/2a/3c/79/6f/caption.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 768,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/2a/3c/79/6f/caption.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 960,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/3c/79/6f/caption.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "Cooking the Jordanian way",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d25152486-r919633604-The_Jordanian_Kitchen-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Fun and delicious ",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d25152486-r919627428-The_Jordanian_Kitchen-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d15745414-Reviews-Eostrix_Gastro_Pub-Amman_Amman_Governorate",
+          "locationId": 15745414,
+          "name": "Eostrix Gastro Pub",
+          "averageRating": 5,
+          "userReviewCount": 682,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Today",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "https://qrco.de/bbcy1d",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": true,
+          "establishmentTypeAndCuisineTags": [
+            "Italian",
+            "Bar",
+            "International",
+            "European",
+            "Pub"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/15/ee/8c/seafood-salad.jpg?w=900&h=500&s=1",
+          "heroImgRawHeight": 505,
+          "heroImgRawWidth": 960,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/15/ee/8c/seafood-salad.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 505,
+                "maxWidth": 960,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/15/ee/8c/seafood-salad.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/15/ee/8c/seafood-salad.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/22/15/ee/8c/seafood-salad.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/22/15/ee/8c/seafood-salad.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/22/15/ee/8c/seafood-salad.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 132,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/22/15/ee/8c/seafood-salad.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 289,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/22/15/ee/8c/seafood-salad.jpg"
+                },
+                {
+                  "width": 960,
+                  "height": 505,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/15/ee/8c/seafood-salad.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "The ￹octopus￻ was superb!",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d15745414-r781212092-Eostrix_Gastro_Pub-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "One of the best places in amman, the...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d15745414-r801372707-Eostrix_Gastro_Pub-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d13083636-Reviews-Nur_Lebanese_Dining-Amman_Amman_Governorate",
+          "locationId": 13083636,
+          "name": "Nur Lebanese Dining",
+          "averageRating": 5,
+          "userReviewCount": 1458,
+          "currentOpenStatusCategory": "OPEN",
+          "currentOpenStatusText": "Open Now",
+          "priceTag": "$$$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.fairmont.com/amman/pdfs/nur-menu-2023/",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "BOTB"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Lebanese",
+            "Mediterranean",
+            "Middle Eastern",
+            "Arabic"
+          ],
+          "offers": {
+            "hasDelivery": false,
+            "hasReservation": true,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null,
+            "slot1Offer": {
+              "canProvideTimeslots": true,
+              "canLockTimeslots": true,
+              "timeSlots": [],
+              "providerId": "15910",
+              "provider": "OpenTable",
+              "providerDisplayName": "OpenTable",
+              "buttonText": "Reserve",
+              "offerURL": "bGQ5Xy9Db21tZXJjZT9wPU9wZW5UYWJsZSZzcmM9MjMyMTg3MzI2Jmdlbz0xMzA4MzYzNiZmcm9tPVJlc3RhdXJhbnRzJmFyZWE9cmVzZXJ2YXRpb25fYnV0dG9uJnNsb3Q9MSZtYXRjaElEPTEmb29zPTAmY250PTEmc2lsbz00NTU4MiZidWNrZXQ9OTc5NjQxJm5yYW5rPTEmY3Jhbms9MSZjbHQ9UiZ0dHlwZT1SZXN0YXVyYW50JnRtPTI3NjMxNjMyOCZtYW5hZ2VkPWZhbHNlJmNhcHBlZD1mYWxzZSZnb3NveD05RE12aWJEVFdkTmFGZUdZTDhRVGFreXYxTEJZWmFHcGVCNE1FSG4taHYybVpCTjM3NkVIVkNHdXNUSVJ4bUo4bXI2cjNfY1dlU0VpV2xIcU1UOTA4WkZzc0J1SURxSFg5blFDUzExcm9IZyZjcz0xYTQ3ZDQ5NDc3YmM3YmE3NjYyOWJmYmE5N2RkMDdhNGFfNHQ4",
+              "logoUrl": "/img2/branding/hotels/OT_Logo_1000x232.png",
+              "trackingEvent": "reserve_click"
+            }
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/50/42/bf/nur-lebanese-dining.jpg?w=1100&h=800&s=1",
+          "heroImgRawHeight": 811,
+          "heroImgRawWidth": 1114,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/50/42/bf/nur-lebanese-dining.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 811,
+                "maxWidth": 1114,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/50/42/bf/nur-lebanese-dining.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/50/42/bf/nur-lebanese-dining.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/50/42/bf/nur-lebanese-dining.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/50/42/bf/nur-lebanese-dining.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/18/50/42/bf/nur-lebanese-dining.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 182,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/50/42/bf/nur-lebanese-dining.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 400,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/50/42/bf/nur-lebanese-dining.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 745,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/18/50/42/bf/nur-lebanese-dining.jpg"
+                },
+                {
+                  "width": 1114,
+                  "height": 811,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/50/42/bf/nur-lebanese-dining.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "Thank you for this unforgettable experience Nice time thank you hamzeh and...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d13083636-r790216880-Nur_Lebanese_Dining-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "The ￹salad￻ was amazing in variety and ve...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d13083636-r864240756-Nur_Lebanese_Dining-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d928988-Reviews-Fame_Restaurant-Amman_Amman_Governorate",
+          "locationId": 928988,
+          "name": "Fame Restaurant",
+          "averageRating": 4,
+          "userReviewCount": 177,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "https://qr.finedinemenu.com/fame-restaurant-1",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": true,
+          "isStoryboardPublished": true,
+          "establishmentTypeAndCuisineTags": [
+            "Bar",
+            "International",
+            "Sushi"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": {
+              "canProvideTimeslots": null,
+              "canLockTimeslots": null,
+              "timeSlots": [],
+              "providerId": "30000",
+              "provider": "Restaurant Special Offer",
+              "providerDisplayName": "Restaurant Special Offer",
+              "buttonText": null,
+              "offerURL": "ZzgyX0NSRUFURV9ZT1VSX09XTl82Y3E=",
+              "logoUrl": null,
+              "trackingEvent": null
+            }
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/3c/2c/74/main-hall.jpg?w=2000&h=1300&s=1",
+          "heroImgRawHeight": 1325,
+          "heroImgRawWidth": 2000,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/3c/2c/74/main-hall.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1325,
+                "maxWidth": 2000,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/3c/2c/74/main-hall.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/3c/2c/74/main-hall.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/3c/2c/74/main-hall.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/3c/2c/74/main-hall.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/11/3c/2c/74/main-hall.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 166,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/3c/2c/74/main-hall.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 364,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/3c/2c/74/main-hall.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 678,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/11/3c/2c/74/main-hall.jpg"
+                },
+                {
+                  "width": 2000,
+                  "height": 1325,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/3c/2c/74/main-hall.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "Overall, if you're in Amman, I highly recommend you give Fame Restaurant a go...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d928988-r741611603-Fame_Restaurant-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Great Place ",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d928988-r890430026-Fame_Restaurant-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d1181235-Reviews-Bourj_Al_Hamam-Amman_Amman_Governorate",
+          "locationId": 1181235,
+          "name": "Bourj Al Hamam",
+          "averageRating": 5,
+          "userReviewCount": 2458,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$$$",
+          "hasMenu": true,
+          "menuUrl": "https://drive.google.com/file/d/1pt5_nKMSlIsUsJgVR7Bf7dnmYqMlPD3b/view",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Lebanese",
+            "Mediterranean",
+            "Barbecue",
+            "Healthy",
+            "Middle Eastern"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3e/95/ee/bourj-al-hamam-amman.jpg?w=2200&h=1500&s=1",
+          "heroImgRawHeight": 1514,
+          "heroImgRawWidth": 2210,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3e/95/ee/bourj-al-hamam-amman.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1514,
+                "maxWidth": 2210,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3e/95/ee/bourj-al-hamam-amman.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3e/95/ee/bourj-al-hamam-amman.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/3e/95/ee/bourj-al-hamam-amman.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/3e/95/ee/bourj-al-hamam-amman.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/16/3e/95/ee/bourj-al-hamam-amman.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 171,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/3e/95/ee/bourj-al-hamam-amman.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 377,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/3e/95/ee/bourj-al-hamam-amman.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 702,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/3e/95/ee/bourj-al-hamam-amman.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 877,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/3e/95/ee/bourj-al-hamam-amman.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "Very nice staff Great food I highly recommend this restaurant Very good service...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d1181235-r806502423-Bourj_Al_Hamam-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Try ￹hummus￻, it’s one of the best I’ve e...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d1181235-r888337008-Bourj_Al_Hamam-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d17595338-Reviews-HIGH_GARDEN_Rooftop-Amman_Amman_Governorate",
+          "locationId": 17595338,
+          "name": "HIGH GARDEN Rooftop",
+          "averageRating": 5,
+          "userReviewCount": 633,
+          "currentOpenStatusCategory": "OPEN",
+          "currentOpenStatusText": "Open Now",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "https://qrco.de/HGmenu",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": true,
+          "establishmentTypeAndCuisineTags": [
+            "American",
+            "Bar",
+            "Seafood",
+            "International",
+            "European",
+            "Wine Bar"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-p/26/38/a6/a5/could-afternoon-plans.jpg",
+          "heroImgRawHeight": 3024,
+          "heroImgRawWidth": 3024,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/38/a6/a5/could-afternoon-plans.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 3024,
+                "maxWidth": 3024,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/38/a6/a5/could-afternoon-plans.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/38/a6/a5/could-afternoon-plans.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/38/a6/a5/could-afternoon-plans.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/38/a6/a5/could-afternoon-plans.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/26/38/a6/a5/could-afternoon-plans.jpg"
+                },
+                {
+                  "width": 205,
+                  "height": 205,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/38/a6/a5/could-afternoon-plans.jpg"
+                },
+                {
+                  "width": 450,
+                  "height": 450,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/38/a6/a5/could-afternoon-plans.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 550,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-p/26/38/a6/a5/could-afternoon-plans.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 1024,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/26/38/a6/a5/could-afternoon-plans.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 1280,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/26/38/a6/a5/could-afternoon-plans.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "Just tell him what you like and leave the rest to Tareq. Recommended for a...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d17595338-r805633502-HIGH_GARDEN_Rooftop-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "￹Very nice place￻ decorated like a garden.",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d17595338-r916549128-HIGH_GARDEN_Rooftop-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d9706146-Reviews-Lucca_Steakhouse-Amman_Amman_Governorate",
+          "locationId": 9706146,
+          "name": "Lucca Steakhouse",
+          "averageRating": 4.5,
+          "userReviewCount": 536,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$ - $$$",
+          "hasMenu": false,
+          "menuUrl": null,
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Steakhouse",
+            "Barbecue"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/bb/0d/79/enjoy-delicious-dishes.jpg?w=1200&h=900&s=1",
+          "heroImgRawHeight": 968,
+          "heroImgRawWidth": 1291,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/bb/0d/79/enjoy-delicious-dishes.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 968,
+                "maxWidth": 1291,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/bb/0d/79/enjoy-delicious-dishes.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/bb/0d/79/enjoy-delicious-dishes.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/bb/0d/79/enjoy-delicious-dishes.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/bb/0d/79/enjoy-delicious-dishes.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/19/bb/0d/79/enjoy-delicious-dishes.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 187,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/19/bb/0d/79/enjoy-delicious-dishes.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 412,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/bb/0d/79/enjoy-delicious-dishes.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 768,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/19/bb/0d/79/enjoy-delicious-dishes.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 960,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/bb/0d/79/enjoy-delicious-dishes.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "We shared the meatballs & cheese appetizer, Lucca salad, Tomohawk steak...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d9706146-r796423718-Lucca_Steakhouse-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "... perfect , nice ￹salad￻ , good steak a...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d9706146-r908770286-Lucca_Steakhouse-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d12902861-Reviews-Salt_Steakhouse-Amman_Amman_Governorate",
+          "locationId": 12902861,
+          "name": "Salt Steakhouse",
+          "averageRating": 5,
+          "userReviewCount": 629,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.fairmont.com/amman/pdfs/salt-menu-2023/",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": true,
+          "establishmentTypeAndCuisineTags": [
+            "Steakhouse",
+            "International",
+            "European"
+          ],
+          "offers": {
+            "hasDelivery": false,
+            "hasReservation": true,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null,
+            "slot1Offer": {
+              "canProvideTimeslots": true,
+              "canLockTimeslots": true,
+              "timeSlots": [],
+              "providerId": "15910",
+              "provider": "OpenTable",
+              "providerDisplayName": "OpenTable",
+              "buttonText": "Reserve",
+              "offerURL": "MGdtXy9Db21tZXJjZT9wPU9wZW5UYWJsZSZzcmM9MjMyMjAwMzAwJmdlbz0xMjkwMjg2MSZmcm9tPVJlc3RhdXJhbnRzJmFyZWE9cmVzZXJ2YXRpb25fYnV0dG9uJnNsb3Q9MSZtYXRjaElEPTEmb29zPTAmY250PTEmc2lsbz00NTU4MiZidWNrZXQ9OTc5NjQxJm5yYW5rPTEmY3Jhbms9MSZjbHQ9UiZ0dHlwZT1SZXN0YXVyYW50JnRtPTI3NjMxNjMyOCZtYW5hZ2VkPWZhbHNlJmNhcHBlZD1mYWxzZSZnb3NveD05RE12aWJEVFdkTmFGZUdZTDhRVGFreXYxTEJZWmFHcGVCNE1FSG4taHYybVpCTjM3NkVIVkNHdXNUSVJ4bUo4aDRJQTJSWkt2enZ1SlN1a2oxcUJxWVdoQmVqeVlTanNSZFFsOXdrMzdDNCZjcz0xNjRhOTJhNjIyMjVhM2MzYmFjNzQ2ZTY2MTZiZjEwNWZfdWFo",
+              "logoUrl": "/img2/branding/hotels/OT_Logo_1000x232.png",
+              "trackingEvent": "reserve_click"
+            }
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/30/51/bd/food-and-beverage.jpg?w=1200&h=1000&s=1",
+          "heroImgRawHeight": 1000,
+          "heroImgRawWidth": 1200,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/30/51/bd/food-and-beverage.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1000,
+                "maxWidth": 1200,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/30/51/bd/food-and-beverage.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/30/51/bd/food-and-beverage.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/30/51/bd/food-and-beverage.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/30/51/bd/food-and-beverage.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/15/30/51/bd/food-and-beverage.jpg"
+                },
+                {
+                  "width": 246,
+                  "height": 205,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/30/51/bd/food-and-beverage.jpg"
+                },
+                {
+                  "width": 540,
+                  "height": 450,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/30/51/bd/food-and-beverage.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 853,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/15/30/51/bd/food-and-beverage.jpg"
+                },
+                {
+                  "width": 1200,
+                  "height": 1000,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/30/51/bd/food-and-beverage.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "To finish we loved the ￹cheesecake￻ and sorbets.",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d12902861-r885343626-Salt_Steakhouse-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "The seating environment was perfect and...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d12902861-r793357505-Salt_Steakhouse-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d24127527-Reviews-Soleil_Cafe-Amman_Amman_Governorate",
+          "locationId": 24127527,
+          "name": "Soleil Cafe",
+          "averageRating": 5,
+          "userReviewCount": 70,
+          "currentOpenStatusCategory": "OPEN",
+          "currentOpenStatusText": "Open Now",
+          "priceTag": null,
+          "hasMenu": true,
+          "menuUrl": "https://qrco.de/SoleilFoodMenu",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Cafe",
+            "International",
+            "Healthy"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/51/13/9a/the-ultimate-botanical.jpg?w=1900&h=1300&s=1",
+          "heroImgRawHeight": 1311,
+          "heroImgRawWidth": 1966,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/51/13/9a/the-ultimate-botanical.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1311,
+                "maxWidth": 1966,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/51/13/9a/the-ultimate-botanical.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/51/13/9a/the-ultimate-botanical.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/51/13/9a/the-ultimate-botanical.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/51/13/9a/the-ultimate-botanical.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/24/51/13/9a/the-ultimate-botanical.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/51/13/9a/the-ultimate-botanical.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/51/13/9a/the-ultimate-botanical.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 683,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/24/51/13/9a/the-ultimate-botanical.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 854,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/24/51/13/9a/the-ultimate-botanical.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "￹Amazing service￻, excellent Good and breathtaking interiors",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d24127527-r890820799-Soleil_Cafe-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Ritz",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d24127527-r917986593-Soleil_Cafe-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d2490871-Reviews-Trader_Vic_s_Amman-Amman_Amman_Governorate",
+          "locationId": 2490871,
+          "name": "Trader Vic's Amman",
+          "averageRating": 4,
+          "userReviewCount": 143,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Today",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.facebook.com/tradervicsamman/menu/",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Bar",
+            "International",
+            "Mediterranean",
+            "Healthy",
+            "Beer restaurants"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c8/50/ae/trader-vic-s-amman.jpg?w=600&h=400&s=1",
+          "heroImgRawHeight": 427,
+          "heroImgRawWidth": 640,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c8/50/ae/trader-vic-s-amman.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 427,
+                "maxWidth": 640,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c8/50/ae/trader-vic-s-amman.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c8/50/ae/trader-vic-s-amman.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/c8/50/ae/trader-vic-s-amman.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/c8/50/ae/trader-vic-s-amman.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/10/c8/50/ae/trader-vic-s-amman.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 166,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/c8/50/ae/trader-vic-s-amman.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 366,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/c8/50/ae/trader-vic-s-amman.jpg"
+                },
+                {
+                  "width": 640,
+                  "height": 427,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/c8/50/ae/trader-vic-s-amman.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "Restaurante and ￹bar￻",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d2490871-r880239714-Trader_Vic_s_Amman-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "really warm welcome in trader vic's...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d2490871-r747577636-Trader_Vic_s_Amman-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d21265730-Reviews-Pizza_Nina-Amman_Amman_Governorate",
+          "locationId": 21265730,
+          "name": "Pizza Nina",
+          "averageRating": 5,
+          "userReviewCount": 258,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Today",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "http://www.pizzaninaorders.com",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Italian",
+            "Pizza",
+            "Fast Food",
+            "Sicilian",
+            "Southern-Italian"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/55/d9/49/peperoni.jpg?w=1900&h=1200&s=1",
+          "heroImgRawHeight": 1280,
+          "heroImgRawWidth": 1917,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/55/d9/49/peperoni.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1280,
+                "maxWidth": 1917,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/55/d9/49/peperoni.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/55/d9/49/peperoni.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/55/d9/49/peperoni.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/55/d9/49/peperoni.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/1c/55/d9/49/peperoni.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/55/d9/49/peperoni.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/55/d9/49/peperoni.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 684,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/1c/55/d9/49/peperoni.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 855,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/55/d9/49/peperoni.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "No one ever really can resist pizza nina, I addicted on pizza nina Rich taste...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d21265730-r788825659-Pizza_Nina-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "... my favorite ￹Porcini￻ Mushroom with t...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d21265730-r846986686-Pizza_Nina-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d19830534-Reviews-The_Lombard_Amman-Amman_Amman_Governorate",
+          "locationId": 19830534,
+          "name": "The Lombard Amman",
+          "averageRating": 5,
+          "userReviewCount": 168,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "https://scontent.fauh1-1.fna.fbcdn.net/v/t39.30808-6/297703869_430015549166971_8849140328177743340_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c4c01c&_nc_eui2=AeHQp2oSVVJIc5iTokU7ZcnvmEfdi7zNytKYR92LvM3K0mn-1veMY8oQXrPwzBgETtXJCxUUSRlW0QGoI9dl-V2m&_nc_ohc=Ob-qkUfFOwEAX9pbW7Q&_nc_ht=scontent.fauh1-1.fna&oh=00_AT-8cgHCvtmlymv9NlaEIjrLEEqgmFG3p1HNokagCL69iQ&oe=62F6BD55",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Italian",
+            "Bar",
+            "Pizza",
+            "Cafe",
+            "Grill",
+            "Pub"
+          ],
+          "offers": {
+            "hasDelivery": false,
+            "hasReservation": true,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null,
+            "slot1Offer": {
+              "canProvideTimeslots": false,
+              "canLockTimeslots": false,
+              "timeSlots": [],
+              "providerId": "15645",
+              "provider": "Restaurants_Servme",
+              "providerDisplayName": "Servme",
+              "buttonText": "Reserve",
+              "offerURL": "OGEwXy9Db21tZXJjZT9wPVJlc3RhdXJhbnRzX1NlcnZtZSZzcmM9MjA0NjI3NzU5Jmdlbz0xOTgzMDUzNCZmcm9tPVJlc3RhdXJhbnRzJmFyZWE9cmVzZXJ2YXRpb25fYnV0dG9uJnNsb3Q9MSZtYXRjaElEPTEmb29zPTAmY250PTEmc2lsbz0zNTg3NCZidWNrZXQ9OTE5ODE4Jm5yYW5rPTEmY3Jhbms9MSZjbHQ9UiZ0dHlwZT1SZXN0YXVyYW50JnRtPTI3NjMxNjMyOCZtYW5hZ2VkPWZhbHNlJmNhcHBlZD1mYWxzZSZnb3NveD1ZeU9uZ21ORXFoeFpfSlNXdTlVZDVlZ2pRdmlIbEpRZzZiLWxuQlBnOTh4X3o5WjBYUDlwamNaaTNSeVJuRU9aQU42VXpvX2xONGl3T2lvSFZLMEJHc19SYlBoLW44dW9XT2UxZklwVjRWQSZjcz0xZGY0NmE2N2E2Y2IyYTQ1YjA3Y2I5MDc0ZGQyOGU2OTlfeTlo",
+              "logoUrl": "/img2/branding/hotels/servme_11.06.2019.png",
+              "trackingEvent": "reserve_click"
+            }
+          },
+          "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/27/52/1b/81/the-lombard-interior.jpg",
+          "heroImgRawHeight": 5504,
+          "heroImgRawWidth": 8256,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/52/1b/81/the-lombard-interior.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 5504,
+                "maxWidth": 8256,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/52/1b/81/the-lombard-interior.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/52/1b/81/the-lombard-interior.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/27/52/1b/81/the-lombard-interior.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/27/52/1b/81/the-lombard-interior.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/27/52/1b/81/the-lombard-interior.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/27/52/1b/81/the-lombard-interior.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/27/52/1b/81/the-lombard-interior.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 683,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/27/52/1b/81/the-lombard-interior.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 853,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/52/1b/81/the-lombard-interior.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "￹Bar￻",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d19830534-r882396200-The_Lombard_Amman-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Have frequented The Lombard many times...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d19830534-r801901866-The_Lombard_Amman-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d12902847-Reviews-Tsuki_Asian-Amman_Amman_Governorate",
+          "locationId": 12902847,
+          "name": "Tsuki Asian",
+          "averageRating": 5,
+          "userReviewCount": 410,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.fairmont.com/amman/pdfs/tsuki-menu-2023/",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Asian"
+          ],
+          "offers": {
+            "hasDelivery": false,
+            "hasReservation": true,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null,
+            "slot1Offer": {
+              "canProvideTimeslots": true,
+              "canLockTimeslots": true,
+              "timeSlots": [],
+              "providerId": "15910",
+              "provider": "OpenTable",
+              "providerDisplayName": "OpenTable",
+              "buttonText": "Reserve",
+              "offerURL": "cTRsXy9Db21tZXJjZT9wPU9wZW5UYWJsZSZzcmM9MjMyMTc3MzcxJmdlbz0xMjkwMjg0NyZmcm9tPVJlc3RhdXJhbnRzJmFyZWE9cmVzZXJ2YXRpb25fYnV0dG9uJnNsb3Q9MSZtYXRjaElEPTEmb29zPTAmY250PTEmc2lsbz00NTU4MiZidWNrZXQ9OTc5NjQxJm5yYW5rPTEmY3Jhbms9MSZjbHQ9UiZ0dHlwZT1SZXN0YXVyYW50JnRtPTI3NjMxNjMyOCZtYW5hZ2VkPWZhbHNlJmNhcHBlZD1mYWxzZSZnb3NveD05RE12aWJEVFdkTmFGZUdZTDhRVGFreXYxTEJZWmFHcGVCNE1FSG4taHYybVpCTjM3NkVIVkNHdXNUSVJ4bUo4MUpaWmp4bFFCbEN5Znk4VWhrMEQ2VUx2SWJuS1JjMDZYNzZidVQ2eHhiayZjcz0xYTUxNGNlMDE1NGZhYjY3YmQzYmI2ZGFmOTk5ZWE0OWJfdmh5",
+              "logoUrl": "/img2/branding/hotels/OT_Logo_1000x232.png",
+              "trackingEvent": "reserve_click"
+            }
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a7/6c/2f/getlstd-property-photo.jpg?w=2200&h=1200&s=1",
+          "heroImgRawHeight": 1232,
+          "heroImgRawWidth": 2208,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a7/6c/2f/getlstd-property-photo.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1232,
+                "maxWidth": 2208,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a7/6c/2f/getlstd-property-photo.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a7/6c/2f/getlstd-property-photo.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/a7/6c/2f/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/a7/6c/2f/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/10/a7/6c/2f/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 139,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/a7/6c/2f/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 307,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/a7/6c/2f/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 571,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/10/a7/6c/2f/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 2208,
+                  "height": 1232,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/a7/6c/2f/getlstd-property-photo.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "We had our Eid lunch at tsuki Asian restaurants at Fairmont Amman the and it...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d12902847-r798942327-Tsuki_Asian-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Great experience",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d12902847-r917834953-Tsuki_Asian-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d11772898-Reviews-La_Capitale-Amman_Amman_Governorate",
+          "locationId": 11772898,
+          "name": "La Capitale",
+          "averageRating": 5,
+          "userReviewCount": 603,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.fourseasons.com/amman/dining/restaurants/la-capitale/lunch-and-dinner/",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "French",
+            "European"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/fb/ab/c2/la-capitale-by-night.jpg?w=1200&h=800&s=1",
+          "heroImgRawHeight": 813,
+          "heroImgRawWidth": 1200,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/fb/ab/c2/la-capitale-by-night.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 813,
+                "maxWidth": 1200,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/fb/ab/c2/la-capitale-by-night.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/fb/ab/c2/la-capitale-by-night.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/fb/ab/c2/la-capitale-by-night.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/fb/ab/c2/la-capitale-by-night.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/18/fb/ab/c2/la-capitale-by-night.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 169,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/fb/ab/c2/la-capitale-by-night.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 373,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/fb/ab/c2/la-capitale-by-night.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 694,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/18/fb/ab/c2/la-capitale-by-night.jpg"
+                },
+                {
+                  "width": 1200,
+                  "height": 813,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/fb/ab/c2/la-capitale-by-night.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "... amazing taste and display , ￹steak frites￻ was great meat dish, service was...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d11772898-r891174323-La_Capitale-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "There was no Mille feuille but Taher was...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d11772898-r794740474-La_Capitale-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d12909961-Reviews-Nasim_Rooftop_Lounge-Amman_Amman_Governorate",
+          "locationId": 12909961,
+          "name": "Nasim Rooftop Lounge",
+          "averageRating": 5,
+          "userReviewCount": 803,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Today",
+          "priceTag": "$$$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.fairmont.com/amman/pdfs/amm-nasim-menu/",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Latin",
+            "Spanish"
+          ],
+          "offers": {
+            "hasDelivery": false,
+            "hasReservation": true,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null,
+            "slot1Offer": {
+              "canProvideTimeslots": true,
+              "canLockTimeslots": true,
+              "timeSlots": [],
+              "providerId": "15910",
+              "provider": "OpenTable",
+              "providerDisplayName": "OpenTable",
+              "buttonText": "Reserve",
+              "offerURL": "Y21kXy9Db21tZXJjZT9wPU9wZW5UYWJsZSZzcmM9MjMyMTg3ODI3Jmdlbz0xMjkwOTk2MSZmcm9tPVJlc3RhdXJhbnRzJmFyZWE9cmVzZXJ2YXRpb25fYnV0dG9uJnNsb3Q9MSZtYXRjaElEPTEmb29zPTAmY250PTEmc2lsbz00NTU4MiZidWNrZXQ9OTc5NjQxJm5yYW5rPTEmY3Jhbms9MSZjbHQ9UiZ0dHlwZT1SZXN0YXVyYW50JnRtPTI3NjMxNjMyOCZtYW5hZ2VkPWZhbHNlJmNhcHBlZD1mYWxzZSZnb3NveD05RE12aWJEVFdkTmFGZUdZTDhRVGFreXYxTEJZWmFHcGVCNE1FSG4taHYybVpCTjM3NkVIVkNHdXNUSVJ4bUo4UmpzNE9BUmw2bG9zTnlLLXFySG51WlVFUU14TmJTTWJSOWpOdlIwN0stSSZjcz0xM2EyZjZiN2IzNmMwYmM1Mzc2NmJjODIxNGVjYWQxMGZfMXMw",
+              "logoUrl": "/img2/branding/hotels/OT_Logo_1000x232.png",
+              "trackingEvent": "reserve_click"
+            }
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/ff/eb/getlstd-property-photo.jpg?w=1600&h=800&s=1",
+          "heroImgRawHeight": 852,
+          "heroImgRawWidth": 1675,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/ff/eb/getlstd-property-photo.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 852,
+                "maxWidth": 1675,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/ff/eb/getlstd-property-photo.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/ff/eb/getlstd-property-photo.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/b2/ff/eb/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/b2/ff/eb/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/10/b2/ff/eb/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 127,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/b2/ff/eb/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 280,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/b2/ff/eb/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 520,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/10/b2/ff/eb/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 1675,
+                  "height": 852,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/ff/eb/getlstd-property-photo.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "It was a amazing and nice dinner with a family 😍😍😍😍at Nasim ❤️thanks Ahmad...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d12909961-r779774041-Nasim_Rooftop_Lounge-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Top atmosphere ",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d12909961-r915883486-Nasim_Rooftop_Lounge-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d8513149-Reviews-U_Roof_Lounge-Amman_Amman_Governorate",
+          "locationId": 8513149,
+          "name": "U Roof Lounge",
+          "averageRating": 4.5,
+          "userReviewCount": 59,
+          "currentOpenStatusCategory": "OPEN",
+          "currentOpenStatusText": "Open Now",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "https://urooflounge.com/menu",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": true,
+          "isStoryboardPublished": true,
+          "establishmentTypeAndCuisineTags": [
+            "Bar",
+            "International",
+            "Pub",
+            "Fusion",
+            "Beer restaurants"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b0/5f/c6/u-roof-lounge.jpg?w=2000&h=1300&s=1",
+          "heroImgRawHeight": 1333,
+          "heroImgRawWidth": 2000,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b0/5f/c6/u-roof-lounge.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1333,
+                "maxWidth": 2000,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b0/5f/c6/u-roof-lounge.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b0/5f/c6/u-roof-lounge.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/b0/5f/c6/u-roof-lounge.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/b0/5f/c6/u-roof-lounge.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/b0/5f/c6/u-roof-lounge.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/b0/5f/c6/u-roof-lounge.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 682,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/08/b0/5f/c6/u-roof-lounge.jpg"
+                },
+                {
+                  "width": 2000,
+                  "height": 1333,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/b0/5f/c6/u-roof-lounge.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "This bar is now my favourite rooftop in Amman. The views of the city are...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d8513149-r761190617-U_Roof_Lounge-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Found the perfect spot",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d8513149-r917733010-U_Roof_Lounge-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d12902876-Reviews-Crystal-Amman_Amman_Governorate",
+          "locationId": 12902876,
+          "name": "Crystal",
+          "averageRating": 5,
+          "userReviewCount": 331,
+          "currentOpenStatusCategory": "OPEN",
+          "currentOpenStatusText": "Open Now",
+          "priceTag": "$$$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.fairmont.com/amman/pdfs/crystal-lounge-food-menu-2023/",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Cafe",
+            "International"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/13/88/crystal-indoor-seating.jpg?w=1700&h=1100&s=1",
+          "heroImgRawHeight": 1122,
+          "heroImgRawWidth": 1779,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/13/88/crystal-indoor-seating.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1122,
+                "maxWidth": 1779,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/13/88/crystal-indoor-seating.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/13/88/crystal-indoor-seating.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/b2/13/88/crystal-indoor-seating.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/b2/13/88/crystal-indoor-seating.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/10/b2/13/88/crystal-indoor-seating.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 158,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/b2/13/88/crystal-indoor-seating.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 347,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/b2/13/88/crystal-indoor-seating.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 646,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/10/b2/13/88/crystal-indoor-seating.jpg"
+                },
+                {
+                  "width": 1779,
+                  "height": 1122,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/13/88/crystal-indoor-seating.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "Thank you Mr.mohmmad hmbooz . The food and service amazing We had the greatest...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d12902876-r801291759-Crystal-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "May your coffee kick in before reality does",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d12902876-r916702394-Crystal-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d24021229-Reviews-Roberto_s_Amman_Restaurant_and_Lounge-Amman_Amman_Governorate",
+          "locationId": 24021229,
+          "name": "Roberto’s Amman Restaurant and Lounge",
+          "averageRating": 5,
+          "userReviewCount": 408,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Today",
+          "priceTag": null,
+          "hasMenu": true,
+          "menuUrl": "https://robertosamman.com/menu/",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Italian",
+            "Bar",
+            "Pub"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/9d/96/7d/bar-entertainment.jpg?w=1900&h=1300&s=1",
+          "heroImgRawHeight": 1311,
+          "heroImgRawWidth": 1966,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/9d/96/7d/bar-entertainment.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1311,
+                "maxWidth": 1966,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/9d/96/7d/bar-entertainment.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/9d/96/7d/bar-entertainment.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/23/9d/96/7d/bar-entertainment.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/23/9d/96/7d/bar-entertainment.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/23/9d/96/7d/bar-entertainment.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/23/9d/96/7d/bar-entertainment.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/23/9d/96/7d/bar-entertainment.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 683,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/23/9d/96/7d/bar-entertainment.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 854,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/23/9d/96/7d/bar-entertainment.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "Food was delicious from ￹risotto￻ to pasta and truffle pizza all very tasty and...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d24021229-r909971110-Roberto_s_Amman_Restaurant_and_Lounge-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Great dining experience!",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d24021229-r919024034-Roberto_s_Amman_Restaurant_and_Lounge-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d7761403-Reviews-Chestnut_Restaurant_Pub-Amman_Amman_Governorate",
+          "locationId": 7761403,
+          "name": "Chestnut Restaurant & Pub",
+          "averageRating": 5,
+          "userReviewCount": 1262,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "http://qrco.de/bbwCR0?trackSharing=1",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": true,
+          "establishmentTypeAndCuisineTags": [
+            "American",
+            "Bar",
+            "Pub"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/15/f9/ba/great-food-great-time.jpg?w=900&h=500&s=1",
+          "heroImgRawHeight": 505,
+          "heroImgRawWidth": 960,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/15/f9/ba/great-food-great-time.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 505,
+                "maxWidth": 960,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/15/f9/ba/great-food-great-time.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/15/f9/ba/great-food-great-time.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/22/15/f9/ba/great-food-great-time.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/22/15/f9/ba/great-food-great-time.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/22/15/f9/ba/great-food-great-time.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 132,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/22/15/f9/ba/great-food-great-time.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 289,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/22/15/f9/ba/great-food-great-time.jpg"
+                },
+                {
+                  "width": 960,
+                  "height": 505,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/15/f9/ba/great-food-great-time.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "The smoked salmon ￹salad￻ remains always a favorite at this place.",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d7761403-r876616649-Chestnut_Restaurant_Pub-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Few places have all in all quality...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d7761403-r764119619-Chestnut_Restaurant_Pub-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d14160968-Reviews-Mesh-Amman_Amman_Governorate",
+          "locationId": 14160968,
+          "name": "Mesh",
+          "averageRating": 5,
+          "userReviewCount": 248,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.taptastego.com/ammwi/content/outlet/6184d294-5fdd-46f7-a768-fef3b63d2f23",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": true,
+          "establishmentTypeAndCuisineTags": [
+            "International",
+            "Mediterranean"
+          ],
+          "offers": {
+            "hasDelivery": false,
+            "hasReservation": true,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null,
+            "slot1Offer": {
+              "canProvideTimeslots": false,
+              "canLockTimeslots": false,
+              "timeSlots": [],
+              "providerId": "14599",
+              "provider": "Restaurants_Eat2Eat",
+              "providerDisplayName": "Eat2Eat",
+              "buttonText": "Reserve",
+              "offerURL": "amFyXy9Db21tZXJjZT9wPVJlc3RhdXJhbnRzX0VhdDJFYXQmc3JjPTEzNDE4OTcwNSZnZW89MTQxNjA5NjgmZnJvbT1SZXN0YXVyYW50cyZhcmVhPXJlc2VydmF0aW9uX2J1dHRvbiZzbG90PTEmbWF0Y2hJRD0xJm9vcz0wJmNudD0xJnNpbG89MzEyNjkmYnVja2V0PTg4MTIzOCZucmFuaz0xJmNyYW5rPTEmY2x0PVImdHR5cGU9UmVzdGF1cmFudCZ0bT0yNzYzMTYzMjgmbWFuYWdlZD1mYWxzZSZjYXBwZWQ9ZmFsc2UmZ29zb3g9V0p4aGRBRDBORVAzbThEWE5HYWl3NGdIR0k2WG9oR1dtbmF3ekYxYjdiQ1REam5VQkJvRWZsalp3d1ZEWUIzQ05HaTlJNm51QlBtWG11blQyRjdZMmQtbTZzbWQxVVJSaDBCMUstbVloZVUmY3M9MTc4ZjVjZGRjNDM2ODM3NDMyMWIyMTliMjQ3ODk3YzQ4XzZqZw==",
+              "logoUrl": "/img2/branding/hotels/e2e_06.10.2021.png\t",
+              "trackingEvent": "reserve_click"
+            }
+          },
+          "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/15/4b/fe/42/enter-mesh-to-eat-mix.jpg",
+          "heroImgRawHeight": 2002,
+          "heroImgRawWidth": 3000,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4b/fe/42/enter-mesh-to-eat-mix.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 2002,
+                "maxWidth": 3000,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4b/fe/42/enter-mesh-to-eat-mix.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4b/fe/42/enter-mesh-to-eat-mix.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/4b/fe/42/enter-mesh-to-eat-mix.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/4b/fe/42/enter-mesh-to-eat-mix.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/15/4b/fe/42/enter-mesh-to-eat-mix.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/4b/fe/42/enter-mesh-to-eat-mix.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/4b/fe/42/enter-mesh-to-eat-mix.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 683,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/15/4b/fe/42/enter-mesh-to-eat-mix.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 854,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/4b/fe/42/enter-mesh-to-eat-mix.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "The staff, in terms of ￹waiters￻, was very sophisticated, especially a certain...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d14160968-r835092376-Mesh-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "I enjoyed the breakfast in mesh this...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d14160968-r769493780-Mesh-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d17851309-Reviews-Tamara-Amman_Amman_Governorate",
+          "locationId": 17851309,
+          "name": "Tamara",
+          "averageRating": 5,
+          "userReviewCount": 320,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$$$",
+          "hasMenu": false,
+          "menuUrl": null,
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Seafood",
+            "Turkish",
+            "Middle Eastern",
+            "Latvian",
+            "Eastern European"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d8/78/f7/photo0jpg.jpg?w=700&h=700&s=1",
+          "heroImgRawHeight": 750,
+          "heroImgRawWidth": 750,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d8/78/f7/photo0jpg.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 750,
+                "maxWidth": 750,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d8/78/f7/photo0jpg.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d8/78/f7/photo0jpg.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/d8/78/f7/photo0jpg.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/d8/78/f7/photo0jpg.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/1a/d8/78/f7/photo0jpg.jpg"
+                },
+                {
+                  "width": 205,
+                  "height": 205,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/d8/78/f7/photo0jpg.jpg"
+                },
+                {
+                  "width": 450,
+                  "height": 450,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/d8/78/f7/photo0jpg.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 550,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-p/1a/d8/78/f7/photo0jpg.jpg"
+                },
+                {
+                  "width": 750,
+                  "height": 750,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/d8/78/f7/photo0jpg.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "￹Amazing restaurant￻",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d17851309-r781161844-Tamara-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "First time here amazing ￹lobster￻",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d17851309-r781923200-Tamara-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d3235991-Reviews-Cinco_De_Mayo_Amman-Amman_Amman_Governorate",
+          "locationId": 3235991,
+          "name": "Cinco De Mayo - Amman",
+          "averageRating": 5,
+          "userReviewCount": 945,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "https://drive.google.com/file/d/1OAttcI81ZmOabGOjvtCNBTWoT_kQfH02/view",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Mexican"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b9/73/00/scrumptious-nachos-made.jpg?w=2000&h=1300&s=1",
+          "heroImgRawHeight": 1333,
+          "heroImgRawWidth": 2000,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b9/73/00/scrumptious-nachos-made.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1333,
+                "maxWidth": 2000,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b9/73/00/scrumptious-nachos-made.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b9/73/00/scrumptious-nachos-made.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/b9/73/00/scrumptious-nachos-made.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/b9/73/00/scrumptious-nachos-made.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/11/b9/73/00/scrumptious-nachos-made.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/b9/73/00/scrumptious-nachos-made.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/b9/73/00/scrumptious-nachos-made.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 682,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/11/b9/73/00/scrumptious-nachos-made.jpg"
+                },
+                {
+                  "width": 2000,
+                  "height": 1333,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/b9/73/00/scrumptious-nachos-made.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "We tried the mixed Fajita, the salmon plate, and the brisket ￹burger￻.",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d3235991-r890619907-Cinco_De_Mayo_Amman-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "I had a great time and I was eating every...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d3235991-r772630106-Cinco_De_Mayo_Amman-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d18555610-Reviews-Mercado_Pizzeria-Amman_Amman_Governorate",
+          "locationId": 18555610,
+          "name": "Mercado Pizzeria",
+          "averageRating": 5,
+          "userReviewCount": 129,
+          "currentOpenStatusCategory": "OPEN",
+          "currentOpenStatusText": "Open Now",
+          "priceTag": "$$$$",
+          "hasMenu": false,
+          "menuUrl": null,
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Italian"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/ac/4e/23/getlstd-property-photo.jpg?w=1400&h=800&s=1",
+          "heroImgRawHeight": 810,
+          "heroImgRawWidth": 1440,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/ac/4e/23/getlstd-property-photo.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 810,
+                "maxWidth": 1440,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/ac/4e/23/getlstd-property-photo.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/ac/4e/23/getlstd-property-photo.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/ac/4e/23/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/ac/4e/23/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/18/ac/4e/23/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 141,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/ac/4e/23/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 309,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/ac/4e/23/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 576,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/18/ac/4e/23/getlstd-property-photo.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 720,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/ac/4e/23/getlstd-property-photo.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "I took a group of students from my class to Mercado Andaluz, Chef Juan was...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d18555610-r744638273-Mercado_Pizzeria-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Fantastic Service & Delicious Food",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d18555610-r862497109-Mercado_Pizzeria-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d15549952-Reviews-Enso-Amman_Amman_Governorate",
+          "locationId": 15549952,
+          "name": "Enso",
+          "averageRating": 5,
+          "userReviewCount": 115,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Today",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.ensoamman.com/our-menus",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": true,
+          "establishmentTypeAndCuisineTags": [
+            "Sushi",
+            "Asian",
+            "Thai",
+            "Indonesian",
+            "Malaysian"
+          ],
+          "offers": {
+            "hasDelivery": false,
+            "hasReservation": true,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null,
+            "slot1Offer": {
+              "canProvideTimeslots": false,
+              "canLockTimeslots": false,
+              "timeSlots": [],
+              "providerId": "14599",
+              "provider": "Restaurants_Eat2Eat",
+              "providerDisplayName": "Eat2Eat",
+              "buttonText": "Reserve",
+              "offerURL": "MmxwXy9Db21tZXJjZT9wPVJlc3RhdXJhbnRzX0VhdDJFYXQmc3JjPTEzNDE4OTcwOSZnZW89MTU1NDk5NTImZnJvbT1SZXN0YXVyYW50cyZhcmVhPXJlc2VydmF0aW9uX2J1dHRvbiZzbG90PTEmbWF0Y2hJRD0xJm9vcz0wJmNudD0xJnNpbG89MzEyNjkmYnVja2V0PTg4MTIzOCZucmFuaz0xJmNyYW5rPTEmY2x0PVImdHR5cGU9UmVzdGF1cmFudCZ0bT0yNzYzMTYzMjgmbWFuYWdlZD1mYWxzZSZjYXBwZWQ9ZmFsc2UmZ29zb3g9V0p4aGRBRDBORVAzbThEWE5HYWl3NGdIR0k2WG9oR1dtbmF3ekYxYjdiQ1REam5VQkJvRWZsalp3d1ZEWUIzQ05HaTlJNm51QlBtWG11blQyRjdZMmZtclh3cEhtb1M4M1M3R3lwelZ3VTQmY3M9MWUzODg1MDVjMzYwZjhlMmM2ODk4NTFmMjExNjQ4Mzg5X21haw==",
+              "logoUrl": "/img2/branding/hotels/e2e_06.10.2021.png\t",
+              "trackingEvent": "reserve_click"
+            }
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6a/52/4d/enso-logo.jpg?w=1100&h=800&s=1",
+          "heroImgRawHeight": 843,
+          "heroImgRawWidth": 1191,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6a/52/4d/enso-logo.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 843,
+                "maxWidth": 1191,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6a/52/4d/enso-logo.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6a/52/4d/enso-logo.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/6a/52/4d/enso-logo.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/6a/52/4d/enso-logo.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/16/6a/52/4d/enso-logo.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 177,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/6a/52/4d/enso-logo.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 389,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/6a/52/4d/enso-logo.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 725,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/6a/52/4d/enso-logo.jpg"
+                },
+                {
+                  "width": 1191,
+                  "height": 843,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/6a/52/4d/enso-logo.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "I absolutely love the ambience.We Oder the ￹sushi￻ all in, which is delicious,...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d15549952-r827497727-Enso-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Excellent ￹Asian food￻ in a beautiful atm...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d15549952-r818310541-Enso-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d12438039-Reviews-Skyline_Sushi-Amman_Amman_Governorate",
+          "locationId": 12438039,
+          "name": "Skyline Sushi",
+          "averageRating": 5,
+          "userReviewCount": 291,
+          "currentOpenStatusCategory": null,
+          "currentOpenStatusText": null,
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "https://bit.ly/skylinesushimenu",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": true,
+          "establishmentTypeAndCuisineTags": [
+            "Japanese",
+            "Seafood",
+            "Sushi"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b2/9c/9e/view.jpg?w=1200&h=600&s=1",
+          "heroImgRawHeight": 628,
+          "heroImgRawWidth": 1200,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b2/9c/9e/view.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 628,
+                "maxWidth": 1200,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b2/9c/9e/view.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b2/9c/9e/view.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/29/b2/9c/9e/view.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/29/b2/9c/9e/view.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/29/b2/9c/9e/view.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 131,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/29/b2/9c/9e/view.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 288,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/29/b2/9c/9e/view.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 536,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/29/b2/9c/9e/view.jpg"
+                },
+                {
+                  "width": 1200,
+                  "height": 628,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/29/b2/9c/9e/view.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "It was very delicious and the staff here are very helpful, thanks you skyline...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d12438039-r734597112-Skyline_Sushi-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Fabulous ￹sushi￻ restaurant (secret tip)",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d12438039-r859946592-Skyline_Sushi-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d10073473-Reviews-ThreeSixty-Amman_Amman_Governorate",
+          "locationId": 10073473,
+          "name": "ThreeSixty",
+          "averageRating": 5,
+          "userReviewCount": 193,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Today",
+          "priceTag": "$$$$",
+          "hasMenu": false,
+          "menuUrl": null,
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "International"
+          ],
+          "offers": {
+            "hasDelivery": false,
+            "hasReservation": true,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null,
+            "slot1Offer": {
+              "canProvideTimeslots": true,
+              "canLockTimeslots": true,
+              "timeSlots": [],
+              "providerId": "15910",
+              "provider": "OpenTable",
+              "providerDisplayName": "OpenTable",
+              "buttonText": "Reserve",
+              "offerURL": "MW9wXy9Db21tZXJjZT9wPU9wZW5UYWJsZSZzcmM9MjMyMTY4ODgwJmdlbz0xMDA3MzQ3MyZmcm9tPVJlc3RhdXJhbnRzJmFyZWE9cmVzZXJ2YXRpb25fYnV0dG9uJnNsb3Q9MSZtYXRjaElEPTEmb29zPTAmY250PTEmc2lsbz00NTU4MiZidWNrZXQ9OTc5NjQxJm5yYW5rPTEmY3Jhbms9MSZjbHQ9UiZ0dHlwZT1SZXN0YXVyYW50JnRtPTI3NjMxNjMyOCZtYW5hZ2VkPWZhbHNlJmNhcHBlZD1mYWxzZSZnb3NveD05RE12aWJEVFdkTmFGZUdZTDhRVGFreXYxTEJZWmFHcGVCNE1FSG4taHYybVpCTjM3NkVIVkNHdXNUSVJ4bUo4akFzbU1HZk5NX3lKRFdHcmp3c18tWVZoTXFRSlZoWU5kY1JuVGY5OE00RSZjcz0xOGJlY2RjNDBmMzhhZjYzZjk3YjVmNTI2ZjMwODg5MmVfOWo2",
+              "logoUrl": "/img2/branding/hotels/OT_Logo_1000x232.png",
+              "trackingEvent": "reserve_click"
+            }
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/81/6a/4f/breakfast-at-threesixty.jpg?w=2000&h=1300&s=1",
+          "heroImgRawHeight": 1333,
+          "heroImgRawWidth": 2000,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/81/6a/4f/breakfast-at-threesixty.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1333,
+                "maxWidth": 2000,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/81/6a/4f/breakfast-at-threesixty.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/81/6a/4f/breakfast-at-threesixty.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/81/6a/4f/breakfast-at-threesixty.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/81/6a/4f/breakfast-at-threesixty.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/11/81/6a/4f/breakfast-at-threesixty.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/81/6a/4f/breakfast-at-threesixty.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/81/6a/4f/breakfast-at-threesixty.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 682,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/11/81/6a/4f/breakfast-at-threesixty.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 853,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/11/81/6a/4f/breakfast-at-threesixty.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "Good sirves in rotana amman in breakfast thanks tariq for good servies and all...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d10073473-r802423323-ThreeSixty-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Delicious Food",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d10073473-r897549852-ThreeSixty-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d10085826-Reviews-Rodeo_Grill-Amman_Amman_Governorate",
+          "locationId": 10085826,
+          "name": "Rodeo Grill",
+          "averageRating": 5,
+          "userReviewCount": 516,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.rotana.com/rotanahotelandresorts/jordan/amman/ammanrotana/dining",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Steakhouse"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/22/db/07/interior.jpg?w=2000&h=1300&s=1",
+          "heroImgRawHeight": 1333,
+          "heroImgRawWidth": 2000,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/22/db/07/interior.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1333,
+                "maxWidth": 2000,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/22/db/07/interior.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/22/db/07/interior.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/22/db/07/interior.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/22/db/07/interior.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/11/22/db/07/interior.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/22/db/07/interior.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/22/db/07/interior.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 682,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/11/22/db/07/interior.jpg"
+                },
+                {
+                  "width": 2000,
+                  "height": 1333,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/22/db/07/interior.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "￹Amazing experience￻,  highly recommended",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d10085826-r889826877-Rodeo_Grill-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Excellent ￹Steak￻ Dinner",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d10085826-r783189349-Rodeo_Grill-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d10148621-Reviews-Gusto_Italian_Restaurant-Amman_Amman_Governorate",
+          "locationId": 10148621,
+          "name": "Gusto Italian Restaurant",
+          "averageRating": 4.5,
+          "userReviewCount": 490,
+          "currentOpenStatusCategory": "CLOSED",
+          "currentOpenStatusText": "Closed Now",
+          "priceTag": "$$$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.rotanatimes.com/ammanrotana/dining",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Italian"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/9b/a1/2e/the-dining-area-at-gusto.jpg?w=2000&h=1300&s=1",
+          "heroImgRawHeight": 1333,
+          "heroImgRawWidth": 2000,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/9b/a1/2e/the-dining-area-at-gusto.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1333,
+                "maxWidth": 2000,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/9b/a1/2e/the-dining-area-at-gusto.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/9b/a1/2e/the-dining-area-at-gusto.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/9b/a1/2e/the-dining-area-at-gusto.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/9b/a1/2e/the-dining-area-at-gusto.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/0d/9b/a1/2e/the-dining-area-at-gusto.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/9b/a1/2e/the-dining-area-at-gusto.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/9b/a1/2e/the-dining-area-at-gusto.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 682,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/0d/9b/a1/2e/the-dining-area-at-gusto.jpg"
+                },
+                {
+                  "width": 2000,
+                  "height": 1333,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/9b/a1/2e/the-dining-area-at-gusto.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "The team were working there were very friendly. I think its the best Italian...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d10148621-r777818131-Gusto_Italian_Restaurant-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Must visit - ￹amazing food￻ and service!",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d10148621-r813876471-Gusto_Italian_Restaurant-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d13807632-Reviews-Tammouz_Restaurant_Cafe-Amman_Amman_Governorate",
+          "locationId": 13807632,
+          "name": "Tammouz Restaurant & Cafe",
+          "averageRating": 4.5,
+          "userReviewCount": 349,
+          "currentOpenStatusCategory": "OPEN",
+          "currentOpenStatusText": "Open Now",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "https://www.facebook.com/TammouzAmman/menu/",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Lebanese",
+            "Mediterranean",
+            "Barbecue",
+            "Diner",
+            "Middle Eastern",
+            "Arabic"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/16/a1/f3/4b/caption.jpg",
+          "heroImgRawHeight": 3840,
+          "heroImgRawWidth": 5760,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a1/f3/4b/caption.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 3840,
+                "maxWidth": 5760,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a1/f3/4b/caption.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a1/f3/4b/caption.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/a1/f3/4b/caption.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/a1/f3/4b/caption.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/16/a1/f3/4b/caption.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/a1/f3/4b/caption.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/a1/f3/4b/caption.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 683,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/a1/f3/4b/caption.jpg"
+                },
+                {
+                  "width": 1280,
+                  "height": 853,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/a1/f3/4b/caption.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "￹Very nice place￻  .",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d13807632-r838829655-Tammouz_Restaurant_Cafe-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "Best ￹breakfast￻ in Jordan.",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d13807632-r881017821-Tammouz_Restaurant_Cafe-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d1547856-Reviews-Blue_Fig-Amman_Amman_Governorate",
+          "locationId": 1547856,
+          "name": "Blue Fig",
+          "averageRating": 4.5,
+          "userReviewCount": 631,
+          "currentOpenStatusCategory": "OPEN",
+          "currentOpenStatusText": "Open Now",
+          "priceTag": "$$ - $$$",
+          "hasMenu": true,
+          "menuUrl": "http://bluefig.com/dine-in-menu.html",
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": {
+            "year": 2023,
+            "awardType": "COE"
+          },
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Bar",
+            "European"
+          ],
+          "offers": {
+            "hasDelivery": null,
+            "hasReservation": null,
+            "slot1Offer": null,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f4/11/68/food-entertainment-at.jpg?w=2000&h=1300&s=1",
+          "heroImgRawHeight": 1333,
+          "heroImgRawWidth": 2000,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f4/11/68/food-entertainment-at.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1333,
+                "maxWidth": 2000,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f4/11/68/food-entertainment-at.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f4/11/68/food-entertainment-at.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/f4/11/68/food-entertainment-at.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/f4/11/68/food-entertainment-at.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/0f/f4/11/68/food-entertainment-at.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/f4/11/68/food-entertainment-at.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/f4/11/68/food-entertainment-at.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 682,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/0f/f4/11/68/food-entertainment-at.jpg"
+                },
+                {
+                  "width": 2000,
+                  "height": 1333,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/f4/11/68/food-entertainment-at.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "Good Food.... Good food really enjoyed with taste of the food and the place...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d1547856-r782090774-Blue_Fig-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "The lemon and ricotta ￹pancakes￻ were inc...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d1547856-r886355844-Blue_Fig-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        },
+        {
+          "restaurantsId": "Restaurant_Review-g293986-d8810147-Reviews-Cafe_Italia-Amman_Amman_Governorate",
+          "locationId": 8810147,
+          "name": "Cafe Italia",
+          "averageRating": 4.5,
+          "userReviewCount": 659,
+          "currentOpenStatusCategory": "OPEN",
+          "currentOpenStatusText": "Open Now",
+          "priceTag": "$$ - $$$",
+          "hasMenu": false,
+          "menuUrl": null,
+          "isDifferentGeo": false,
+          "parentGeoName": "Amman",
+          "distanceTo": null,
+          "awardInfo": null,
+          "isLocalChefItem": false,
+          "isPremium": false,
+          "isStoryboardPublished": false,
+          "establishmentTypeAndCuisineTags": [
+            "Italian",
+            "Cafe",
+            "European"
+          ],
+          "offers": {
+            "hasDelivery": false,
+            "hasReservation": true,
+            "slot2Offer": null,
+            "restaurantSpecialOffer": null,
+            "slot1Offer": {
+              "canProvideTimeslots": true,
+              "canLockTimeslots": true,
+              "timeSlots": [],
+              "providerId": "15910",
+              "provider": "OpenTable",
+              "providerDisplayName": "OpenTable",
+              "buttonText": "Reserve",
+              "offerURL": "MnlyXy9Db21tZXJjZT9wPU9wZW5UYWJsZSZzcmM9MjMyMTk5NDYzJmdlbz04ODEwMTQ3JmZyb209UmVzdGF1cmFudHMmYXJlYT1yZXNlcnZhdGlvbl9idXR0b24mc2xvdD0xJm1hdGNoSUQ9MSZvb3M9MCZjbnQ9MSZzaWxvPTQ1NTgyJmJ1Y2tldD05Nzk2NDEmbnJhbms9MSZjcmFuaz0xJmNsdD1SJnR0eXBlPVJlc3RhdXJhbnQmdG09Mjc2MzE2MzI4Jm1hbmFnZWQ9ZmFsc2UmY2FwcGVkPWZhbHNlJmdvc294PTlETXZpYkRUV2ROYUZlR1lMOFFUYWt5djFMQllaYUdwZUI0TUVIbi1odjJtWkJOMzc2RUhWQ0d1c1RJUnhtSjhPV3QyaERfMl9sVllhajdmRTBVVEQ5cjI3S3RmVzl0RmtsclpjaFota1FzJmNzPTFkMjM5NTk5YjNkNjVhMzA5OTZhZTYwYWY4OTBlNDRiNF85eXA=",
+              "logoUrl": "/img2/branding/hotels/OT_Logo_1000x232.png",
+              "trackingEvent": "reserve_click"
+            }
+          },
+          "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/42/30/8f/cafe-italia.jpg?w=2000&h=1300&s=1",
+          "heroImgRawHeight": 1333,
+          "heroImgRawWidth": 2000,
+          "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/42/30/8f/cafe-italia.jpg?w=200&h=200&s=1",
+          "squareImgRawLength": 0,
+          "thumbnail": {
+            "photo": {
+              "photoSizeDynamic": {
+                "maxHeight": 1333,
+                "maxWidth": 2000,
+                "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/42/30/8f/cafe-italia.jpg?w={width}&h={height}&s=1"
+              },
+              "photoSizes": [
+                {
+                  "width": 0,
+                  "height": 0,
+                  "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/42/30/8f/cafe-italia.jpg?w=100&h=100&s=1"
+                },
+                {
+                  "width": 50,
+                  "height": 50,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/42/30/8f/cafe-italia.jpg"
+                },
+                {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/42/30/8f/cafe-italia.jpg"
+                },
+                {
+                  "width": 180,
+                  "height": 200,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-i/10/42/30/8f/cafe-italia.jpg"
+                },
+                {
+                  "width": 250,
+                  "height": 167,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/42/30/8f/cafe-italia.jpg"
+                },
+                {
+                  "width": 550,
+                  "height": 367,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/42/30/8f/cafe-italia.jpg"
+                },
+                {
+                  "width": 1024,
+                  "height": 682,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-w/10/42/30/8f/cafe-italia.jpg"
+                },
+                {
+                  "width": 2000,
+                  "height": 1333,
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/42/30/8f/cafe-italia.jpg"
+                }
+              ]
+            }
+          },
+          "reviewSnippets": {
+            "reviewSnippetsList": [
+              {
+                "reviewText": "... i would recommend trying the anti-￹pasta￻ (Mozzarella and tomatoes) and the...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d8810147-r824745140-Cafe_Italia-Amman_Amman_Governorate.html"
+              },
+              {
+                "reviewText": "special thanks to the star Hussam, you...",
+                "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g293986-d8810147-r721523348-Cafe_Italia-Amman_Amman_Governorate.html"
+              }
+            ]
+          }
+        }
+      ],
+      "currentPage": 1
+    }
+  }
